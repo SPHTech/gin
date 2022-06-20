@@ -14,8 +14,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/gin-gonic/gin/internal/bytesconv"
-	"github.com/gin-gonic/gin/render"
+	"github.com/SPHTech/gin/internal/bytesconv"
+	"github.com/SPHTech/gin/render"
 	"golang.org/x/net/http2"
 	"golang.org/x/net/http2/h2c"
 )
