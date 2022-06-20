@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/SPHTech/gin/internal/json"
+	"github.com/gin-gonic/gin/internal/json"
 	"github.com/stretchr/testify/assert"
 )
 

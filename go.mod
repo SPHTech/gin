@@ -1,4 +1,4 @@
-module github.com/SPHTech/gin
+module github.com/gin-gonic/gin
 
 go 1.18
 

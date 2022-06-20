@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/SPHTech/gin/binding"
+	"github.com/gin-gonic/gin/binding"
 	"github.com/stretchr/testify/assert"
 )
 
