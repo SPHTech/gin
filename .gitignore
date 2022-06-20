@@ -5,3 +5,16 @@ count.out
 test
 profile.out
 tmp.out
+
+# Node
+node_modules
+package.json
+
+# serverless
+.serverless
+
+# IDE
+.idea
+
+# Go
+bin
