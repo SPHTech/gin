@@ -1,9 +1,10 @@
-module github.com/gin-gonic/gin
+module github.com/SPHTech/gin
 
 go 1.18
 
 require (
 	github.com/gin-contrib/sse v0.1.0
+	github.com/gin-gonic/gin v1.8.1
 	github.com/go-playground/validator/v10 v10.10.0
 	github.com/goccy/go-json v0.9.8
 	github.com/json-iterator/go v1.1.12
